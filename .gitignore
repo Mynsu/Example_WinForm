@@ -1,0 +1,6 @@
+.vs
+*.sln
+
+Example_Winform/*
+!Example_Winform/Form1*
+!Example_Winform/Model
